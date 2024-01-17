@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariebattestini
-- 👀 Je suis interéssée par le développement full-stack
-- 🌱 J'apprend actuellement le développement front-end
+- 👀 Je suis intéressée par le développement full-stack
+- 🌱 J'apprends actuellement le développement front-end
 - 💞️ Je recherche des missions en tant que freelance
 - 📫 Vous pouvez me contacter par mail : m.battestini@icloud.com ou sur linkedIN : https://www.linkedin.com/in/marie-sophie-battestini/
 
