@@ -1,6 +1,6 @@
 - 👋 Salut, moi c'est Marie-Sophie Battestini
-- 👀 Je suis développeuse full-stack à en devenir !
-- 🌱 Actuellement en pleine recherche de stage (mai à juillet 2024) et d'alternance pour septembre 2024
+- 👀 Je suis développeuse front à en devenir !
+- 🌱 Actuellement en pleine recherche d'alternance pour septembre 2024
 - 📫 Vous pouvez me contacter par mail : m.battestini@icloud.com ou sur LinkedIn : https://www.linkedin.com/in/marie-sophie-battestini/
 
 <!---
